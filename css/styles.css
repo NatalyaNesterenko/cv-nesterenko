@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+
+
+
+body{
+    font-family: 'Montserrat', 'sans-serif';
+
+/* background-color: cornsilk; */
+padding: 40 px 40 px 40px;
+background-color: #E5E5E5;;
+}
+
+.wrapper{
+display: flex;
+flex-direction: row-reverse;
+background-color: #fff;
+width: 1200px;
+margin: 0 auto;
+padding: 40px;
+}
+
+
+
+/* Main content */
+
+.main-content{
+
+
+padding: 88px 88px 88px 88px;
+}
+
+
+/* about me */
+
+.my-profesion
+h2{
+    
+font-size: 35px;
+}
+.my-profesion{
+ margin-bottom: 18px;
+
+}
+li{
+    color:  #6D9BF5;
+}
+
+.blue-subtitle{
+    color: #6D9BF5;
+}
+
+.project-list{
+    padding-left: 20px;
+}
+
+.project-list__item{
+    color: #000;
+}
+
+
+/* block left */
+
+.block-left{
+    background-color: #E0EBFE;
+    border-radius: 20px;
+}
+
+.block-left__content{
+padding-left: 40px;
+}
+
+.block-left__contacts{
+padding-left: 40px;
+
+}
+
+
+
+.block-left__title{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A;
+}
+
+.block-left__contacts-span{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #161D2A;
+}
+
+.block-left__item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #161D2A;
+
+}
+
+
+.block-left__photo{
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.block-left__img{
+    border-radius: 20px;
+}
+
+.block__list {
+    margin-bottom: 44px;
+}
+
+
+.block__item-list span{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    color: #161D2A;
+}
+
+
+.mr-top-bottom{
+    display: block;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+
+/*------------------- education -------------------*/
+.sub-title{
+    line-height: 1.227;
+    
+}
+
+.main-content__light-text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    color: #787878;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 20px;
+}
+
